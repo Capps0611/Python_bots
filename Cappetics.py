@@ -2,7 +2,6 @@ import discord
 import os
 from discord.ext import commands
 
-#MjU2MDk4ODEzNDczNzE4Mjcy.CyyM8A.pFa1uLujdn5U3vtEV9tK7dxrhfo = token
 #espeak "#{event.user.username} has connected" -w connected.wav     : cmd to get speech file
 #use os.system() for terminal commands
 
@@ -94,4 +93,4 @@ async def test(ctx):
 
 
 
-bot.run('MjU2MDk4ODEzNDczNzE4Mjcy.CyyM8A.pFa1uLujdn5U3vtEV9tK7dxrhfo')
+bot.run('Token Goes Here')
