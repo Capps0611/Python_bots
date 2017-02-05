@@ -466,5 +466,5 @@ async def burn_him(ctx):
 			player = voice.create_ffmpeg_player("/root/Soundboard/burn_him.wav")
 			player.start()
 
-bot.run('MjQ4MjEwODgxNzg2MTUwOTEz.Cw0b7A.o3EnOGtkGuHMmN9TPuNGm8vRxvU')
+bot.run('Token Goes here')
 
