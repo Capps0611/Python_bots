@@ -78,4 +78,4 @@ async def Music_Join(ctx):
 		else:
 			voice = await bot.join_voice_channel(channel)
 
-bot.run('MjYzMzgzMjAzMDU2NzEzNzMw.C0ROOw.dZH9MINX_TwC6dpXIBD-Efi3UpU')
+bot.run('Token Goes here')
